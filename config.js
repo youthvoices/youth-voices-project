@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Spectral', // <title>
+  siteTitle: 'The Youth Voices Project', // <title>
   manifestName: 'Spectral',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -7,9 +7,8 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'The Youth Voices Project',
+  subHeading: 'Community Building in the greater Lansing area',
   // social
   socialLinks: [
     {
