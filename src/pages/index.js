@@ -134,7 +134,7 @@ const IndexPage = () => (
           <h2>Collaboration</h2>
           <p>
             The Youth Voices Project is a collaboration between students and staff
-            at a local housing community 
+            at a local housing community
             in the greater Lansing area and Michigan State University.
           </p>
         </header>
